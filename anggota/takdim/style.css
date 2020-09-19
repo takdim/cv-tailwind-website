@@ -7,11 +7,14 @@
 h4{
     font-weight: normal;
     font-size: 20px;
+    color: white;
 }
 h1{
     font-weight: normal;
     font-size: 50px;
+    color: white;
 }
+
 .fotoku{
     width: auto;
     border-radius: 5% !important;
