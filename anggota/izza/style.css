@@ -1,0 +1,27 @@
+.grid-container {
+    display: grid ;
+    grid-template-columns: 1fr 1fr;
+
+    padding: 10px ;
+}
+h4{
+    font-weight: normal;
+    font-size: 20px;
+    color: white;
+}
+h1{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.fotoku{
+    width: auto;
+    border-radius: 5% !important;
+    border-width: 5% !important;
+    border-color: black !important;
+    border-style: solid !important;
+}
+html {
+    scroll-behavior: smooth;
+}
